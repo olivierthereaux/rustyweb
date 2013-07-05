@@ -1,0 +1,13 @@
+Subject: Gestion des matériaux bruts
+Tags: materiau
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+L'information est partagée et conservée dans de très nombreux formats. L'information est parfois codée physiquement dans le matériel brut (encre dans le papier, gravure sur bois, etc.) Les stratégies de conservation, déploiement, reproduction, etc adoptées sont très proches de la propriété physique du matériel.
+
+Dans le domaine numérique, nous sommes confrontés à des enjeux similaires. Une information codée dans un format spécifique sera-t-elle utilisable dans quelques dizaines d'années même en faisant l'hypothèse que le support physique du numérique ne se désagrège pas. 
+* Quels sont les formats d'archives ?
+
+La remise au goût du jour d'un ancien matériel est-elle trop coûteuse. Imaginez par exemple le changement d'un fichier HTML envahi de tableaux et d'éléments `font` que vous voudriez moderniser. Le nettoyage du matériel créé un coût induit qui peut également déterminer nos stratégies de création du contenu aujourd'hui. Le contenu d'aujourd'hui sera-t-il robuste si nous considérons que celui du passé est parfois inutilisable à cause de la façon dont il a été codé.
