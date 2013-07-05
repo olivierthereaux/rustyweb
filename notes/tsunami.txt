@@ -1,0 +1,10 @@
+Subject: Tsunami
+Tags: résistance, mémoire
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+Un Tsunami est un événement extrêmement destructeur, déstabilisant créant une rupture radicale dans la gestion de la mémoire. On pourrait parfois considére une refonte comme un tsunami. Pour les survivants du lieu, un tsunami est l'obligation (et non l'opportunité) de (re)construire à nouveau. On envisage la refonte d'un site perçu souvent d'un besoin interne beaucoup plus que d'un besoin externe. En détruisant un site ancien, on créé une opportunité internet mais une obligation externe pour les visiteurs du site qui n'avaient que peu de contrôle sur l'ensemble du site.
+
+Comprendre cela et envisager les conséquences d'une modification radicale peut permettre de mettre en place des stratégies.
