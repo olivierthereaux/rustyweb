@@ -1,0 +1,11 @@
+Subject: Identifiants
+Tags: identification, reference
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+Un identifiant est ce qui permet de déterminer l'unicité d'un concept (objet ou liste d'objets au sens générique et non matériel). Définir des identifiants pérennes est une tâche difficile. D'autant plus que ces identifiants sont également vecteur d'informations eux-mêmes pour le Web à cause de leur impression sur d'autres domaines, ainsi que pour le contexte technologique comme le SEO. La séquence des caractères de l'identifiant devient elle-même un object technologique de mémoire et peut-être d'archives.
+
+Gérer l'indépendance des identifiants en fonction de l'architecture matérielle, logicielles, culturelles représentent un enjeu et un défi très important.
+
