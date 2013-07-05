@@ -1,0 +1,31 @@
+Subject: Une refonte et ses conséquences
+Tags: mémoire, archive, choix, culture
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+Quelles sont les questions, commentaires, décisions qui émergent lors de la refonte d'un site Web ? Et que signifie le mot « refonte »
+
+Une phrase que l'on peut entendre parfois 
+
+> C'est vieux, il faut s'en débarasser.
+
+Qu'est-ce qui définit les critères de conservation d'une information ? Faut-il migrer dans le *nouveau système* ou bien passer le tout en **archive privée** (à définir ce que signifie une archive privée).
+
+Après le lancement de la refonte, de nouvelles questions émergent telles que :
+
+> Où est-ce maintenant ?
+
+Les attentes de chacun dépendent souvent du contexte historique, social, culturel. La façon dont nous définissons les catégories est également temporelle.
+
+Établir la liste des anciens contenus, et les comprendre sont un travail en soi, et qui détermine déjà que les contenus n'avaient pas forcément été envisagés comme permanent. Quel est le critère qui nous fait conserver un contenu.
+
+* popularité ?
+* suite à une demande externe/interne ? Et alors comment « ressusciter » l'information disparue (ou archivée) dans le nouveau contexte (contenu et URL).
+
+Et parfois la mémoire d'un contenu et/ou d'une URL en est sa trace imprimée sur le papier, ce que l'on a décidé de fossiliser dans un autre matériel plus résistant au changement. Le papier a des propriétés intéressantes.
+
+Ce qui est contenu dans un moteur de recherche (au niveau de son index) est une forme de catalogage de l'information courante mais également de l'information appelée à disparaître. Et peut-on envisager un moteur de recherche de ce qui n'est plus justement ? Et que cela signifie-t-il de rechercher une information qui n'est plus accessible ?
+
+Une refonte a également un coût défini en partie par ses questions de gestion de la mémoire.
