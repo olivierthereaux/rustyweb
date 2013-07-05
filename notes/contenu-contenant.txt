@@ -1,0 +1,11 @@
+Subject: Contenu et Contenant
+Tags: matériel, format, sens
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+Le contenu est très dépendant de son format. Comprendre le matériel permet de mieux définir les contraintes avec lesquelles nous travaillons.
+
+Comment sépare-t-on la logique technique de la logique du sens ? Avec quelle facilité les données peuvent-elles être extraites et réinjectées dans un nouveau système ?
+
