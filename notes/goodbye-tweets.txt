@@ -1,0 +1,19 @@
+Subject: Goodbye Tweets
+Tags: jetable, readonly
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+David, Eric, Olivier et d'autres ont commencé à effacer leur tweets avec des stratégies plus ou moins différentes. Il y a une certaines formes d'oralité dans la suppression de ces tweets. 
+
+Twitter permet maintenant d'accéder à une archive de ses tweets, mais ne permet pas de construire de stratégies d'effacement de l'information. Par exemple, 
+
+* ne garder que les 100 derniers tweets 
+* ne garder que les tweets pendant 7 jours, 24h, etc.
+
+Si la notion d'ACL par tweet existait, nous pourrions imaginer de passer les tweets **cachés du public** (le privé n'existe pas, twitter écoute) au bout d'un certain nombre de jours.
+
+## Programmes pour effacer/archiver les tweets
+
+* [oldtweets](https://github.com/olivierthereaux/oldtweets)
