@@ -1,0 +1,18 @@
+Subject: Migration des contenus
+Tags: matériel, refonte
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+La refonte du site exige parfois la migration des contenus (voir les autres notes sur le sujet).
+
+Deux hypothèses de travail pour la migration de contenu.
+
+* Conversion : lourd, demande un effort humain important, prend du temps. Nous perdons le contexte historique (visuel, culturel) du contenu initial. Nous rendons le contenu une partie de la réalité courante.
+* Momification : nous créons une version statique du contenu. Est-ce techniquement plus difficile. Il y a des enjeux d'intégration avec un système qui est possiblement entièrement dynamique et qui n'a pas été prévu pour gérer l'historicité et les documents statiques, même au niveau simple de la gestion des URLs. URLs appartenant déjà à un ancien contenu et donc interdisant la création du contenu dans le nouveau système. La présence des anciens contenus présentent aussi un enjeu de non uniformité au niveau UX (interne, externe), une question de marque (branding).
+
+
+Il est difficile d'évaluer si l'utilisateur sera décontenancé par le manque d'uniformité (nouveaux utilisateurs) ou par la disparition du matériel historique (utilisateurs habitués).
+
+Dans le domaine physique, quels sont les éléments dont nous avons des attentes de stabilités et ceux dont nous considérons que le changement n'est pas important. 
