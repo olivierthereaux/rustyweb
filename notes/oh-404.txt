@@ -5,7 +5,7 @@ License: CC0
 Date: 2013-06-07
 Location: Kita-Kamakura, Japan
 
-Que ce soit pour une refonte ou la gestion d'un site courant, les codes HTTP nous informent. `404 Not Found` est une indication du serveur pour signifier au client que la requête a été comprise mais que le client demande une information qui ne peut pas être trouvée sur le serveur. Cela ne présume en rien que la requête n'est pas valide. Imaginons que la personne est trouvée l'URL dans un autre medium ou sur un autre site Web, ou dans ses signets,  mais la disparition de l'information n'a pas été proprement gérée. Cela donne une information intéressante sur le contrat entre le client et le serveur  vis à vis de l'information.
+Que ce soit pour une refonte ou la gestion d'un site courant, les codes HTTP nous informent. `404 Not Found` est une indication du serveur pour signifier au client que la requête a été comprise mais que le client demande une information qui ne peut pas être trouvée sur le serveur. Cela ne présume en rien que la requête n'est pas valide. Imaginons que la personne ait trouvée l'URL dans un autre medium ou sur un autre site Web, ou dans ses signets,  mais la disparition de l'information n'a pas été proprement gérée. Cela donne une information intéressante sur le contrat entre le client et le serveur  vis à vis de l'information.
 
 Cette information, le 404, pourrait être utile en détectant qu'en effet cette information était populaire et qu'il serait bon de donner une information plus complète quant à sa disparition ou même de la ressucister. 
 
