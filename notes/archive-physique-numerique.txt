@@ -1,0 +1,20 @@
+Subject: Archive Physique, Archive Numérique
+Tags: mémoire, archive
+Content-Type: text/plain
+License: CC0
+Date: 2013-08-02
+Location: Londres, UK
+
+Archive physique = conserver un artefact physique unique (ou une instance physique d'un contenu - e.g. edition d'un livre) dans un boîte, à l'abri du monde et du temps.
+
+La notion d'archive ainsi définie ne s'applique pas à des artefacts numériques, qui, par nature, sont copiables à l'infini et sans perte. 
+
+L'artefact numérique est cependant: 
+* stocké sur un support physique souvent peu pérenne. Les cassettes de données, par exemple, ont un nombre de lecture maximum possible avant que leur contenu ne devienne illisible. 
+* encodé dans un format particulier. Certains formats sont plus pérennes que d'autres, mais tous dépendent de logiciels ou de documentation du format / du code 
+
+Le risque pour un contenu "numérique" n'est donc pas tant celui de ne pas résister au temps et à l'entropie à laquelle est soumis son support. Il est plutôt celui de ne pas être assez copié, transcodé, recodé, et utilisé pendant une période de temps telle que les copies et leur support ne seraient plus utilisables, ou que l'encodage (format) du contenu ne soit plus lisible. 
+
+En un sens:
+* Archivage physique = protection contre l'entropie (donc contre lumière, chaleur et autres formes d'échange d'énergie)
+* Archivage numérique = protection contre l'oubli 
