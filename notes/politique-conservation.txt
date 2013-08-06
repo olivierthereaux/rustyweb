@@ -1,0 +1,13 @@
+Subject: Politique
+Tags: information, attente
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+URI permanence policy vs HATEOAS
+
+* Do people really bookmark pages?
+* What is the relations about moving, changing ?
+
+Contenu et URI sont deux choses différentes
