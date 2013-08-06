@@ -1,0 +1,17 @@
+Subject: Time machine
+Tags: information, structure
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+
+Les bookmarks en tant que machine temporelle, machine d'exploration, les couches d'accès à cette information du côté client autant que du côté serveur.
+
+Archives de Gerald.
+
+Web.archive.org
+
+Les éditions multiples d'un article de journal, l'indication des révisions.
+
+Les systèmes de gestion de version comme ces notes.
