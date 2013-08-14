@@ -1,0 +1,16 @@
+Subject: Mentir au présent
+Tags: histoire
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+Utilisé dans un texte:
+
+* Date de lecture: "c'était" / projet fini (was)
+* Date d'écriture: "c'est"   / projet en cours (is)
+
+La grammaire du texte change avec le temps qui passe. Dans ce cas est-il nécessaire d'inscrire la notion du temps dans l'écriture. Un flag par exemple qui permet l'adaptation dynamique du contenu.
+
+Ou bien donner les éléments nécessaires à la compréhension du contexte temporel (comme sur le papier)
+

@@ -1,0 +1,10 @@
+Subject: Accès et authorisation
+Tags: information, structure
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+Qui a accès au contenu et pourquoi ?
+
+Garder le contenu sur place mais bloquer son accès complètement ou partiellement. Que devient la découverte et la possibilité de découverte sans ou avec le contexte (robots.txt)

@@ -1,0 +1,10 @@
+Subject: Usenet
+Tags: information, structure
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+Un système distribué et donc naturellement archivé par sa structure protocolaire.
+
+Au contraire d'une page Web sans archives.

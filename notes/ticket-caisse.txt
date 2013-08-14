@@ -1,0 +1,18 @@
+Subject: Esthétique du ticket de caisse
+Tags: information, structure
+Content-Type: text/plain
+License: CC0
+Date: 2013-06-07
+Location: Kita-Kamakura, Japan
+
+Un ticket de caisse est une information hyper-structurée avec une grande richesse contextuelle.
+
+* L'information de validation de son achat (présent)
+* Un instrument de garantie (présent, futur)
+* Une information du nom du magasin, du serveur (représentant des actions du passé)
+* Une information de géolocalisation (futur)
+* Une information de budgets pour les impôts (futur)
+* Un outil futur, un témoin pour les recherches sociologiques sur la consommation (futur)
+* Un outil de rêveries pour un poète une fois trouvé dans un grenier (futur)
+
+
