@@ -15,7 +15,7 @@ Paris Web, 11 Octobre 2013
    - 20 ans après, Retrouvée: une copie, presque par hasard
  
 
-## Nature de l'information et de sa rouille
+## L'information et le temps
 
  * Esthétique du ticket de caisse
    - Pour qui, pourquoi, quand
@@ -57,12 +57,12 @@ Paris Web, 11 Octobre 2013
    - modèle génétique/mémétique de survie
      - “A panda breeding program” -- https://www.cooperhewitt.org/object-of-the-day/2013/08/26/planetary-collecting-and-preserving-code-living-object 
 
-## TBD?
+## Le Web et la rouille
  * La rouille
    - Bill Moggridge (ref séquence film: Objectified - 2 minutes) "materiau et objet qui se bonifie avec le temps et l'usage"
    - Concept de rouille [à exprimer, expliquer] adapté à l'information
    - la rouille détruit et protège. Matériau vivant
-
+ * Comprendre son matériau
 
 ## Et si la pierre de rosette n'avait pas existé?
 
