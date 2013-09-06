@@ -33,27 +33,27 @@ Paris Web, 11 Octobre 2013
 ## Web, une plateforme pour gérer l'information
 
 * Fragilité par négligence ou Tri par choix
-  - Le rôle habituel du “curator” (conservateur / commissaire)
-  - conserver ou supprimer n'est pas une question de moralité
-  - trop d'inconnues pour choisir en connaissance de cause
-  - l'important est de donner et faire comprendre le choix
-  - déléguer / distribuer le rôle du curator?
- * Messages (HTTP et conventions) - Technique
+   - Le rôle habituel du “curator” (conservateur / commissaire)
+   - conserver ou supprimer n'est pas une question de moralité
+   - trop d'inconnues pour choisir en connaissance de cause
+   - l'important est de donner et faire comprendre le choix
+   - déléguer / distribuer le rôle du curator?
+* Messages (HTTP et conventions) - Technique
    - Refonte de site web. Tentation de la terre brûlée. Tension entre "c'est vieux et à jeter" et "les visiteurs se plaignent de liens brisés". 
    - Redirections: palliatif / curatif
    - Gestion de l'identification: préventif. Fondation d'un site de 1000 ans.
- * Politique (de maintenance, de préservation, de pérennité) - Sociale
+* Politique (de maintenance, de préservation, de pérennité) - Sociale
    - Conservation de quoi? Contenu? Contenant? Plateforme? Mode d'emploi? 
    - L'informations après nous
    - Au delà de la durée d'emploi
    - Le contrat avec le lecteur dans le futur
- * License - Sociétale
+* License - Sociétale
    - L'information (et les données numériques) - uniques par leur copie quasi gratuite
    - Gestion du vieillissement différent des artefacts physiques (y compris supports pour numérique)
    - Duplication - un modèle de préservation pour le numérique et l'information
    - Distribution
    - Appropriation
- * Duplication + Distribution + Appropriation = modèle génétique/mémétique de survie
+* Duplication + Distribution + Appropriation = modèle génétique/mémétique de survie
    - “A panda breeding program” -- https://www.cooperhewitt.org/object-of-the-day/2013/08/26/planetary-collecting-and-preserving-code-living-object 
 
 ## TBD?
