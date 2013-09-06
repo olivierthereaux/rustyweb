@@ -56,6 +56,9 @@ Paris Web, 11 Octobre 2013
    - Appropriation
    - modèle génétique/mémétique de survie
      - “A panda breeding program” -- https://www.cooperhewitt.org/object-of-the-day/2013/08/26/planetary-collecting-and-preserving-code-living-object 
+* Donner à l'information une chance de vivre et d'évoluer dans le temps
+   - Prendre le temps en considération - réponse à la naïveté du modernisme
+   - Matériau qui change - transition vers concept de rouille. 
 
 ## Le Web et la rouille
  * La rouille
