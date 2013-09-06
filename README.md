@@ -14,7 +14,7 @@ Une collection de matériel pour la conférence [ParisWeb2013 “Esthétique et 
 
 ## Sujets à aborder 
 
-## Pistes de réflexion
+Tout au long de ce projet, nous editerons des [notes](notes/) pour chaque sujet intéressant ou connexe à notre propos. 
 
 ## Références
 1.  [Digital Decay](http://olivier.thereaux.net/2013/01-Digital-Decay/) -- Olivier Thereaux, 2013-01-30. 
@@ -42,4 +42,12 @@ Une collection de matériel pour la conférence [ParisWeb2013 “Esthétique et 
     * Systèmes numériques pérennes. URI = identification pérenne
     * Gestion de la mémoire et du changement avec HTTP
     * Destruction (volontaire et involontaire) du contenu
+    
 6. [Tips on Archiving Family History](http://www.nytimes.com/2013/05/29/booming/tips-on-archiving-family-history-part-1.html) -- Bertram Lyons, NYT, 2013-05-29
+
+7. [Digression | esthétique du web qui rouille](http://www.tierslivre.net/spip/spip.php?article3640) -- François Bon, Tiers Livre, 29 août 2013
+    * «Aucune de nos architectures, dans leur genèse et leurs novations même spectaculaires, n’est indépendante des états plus anciens de l’architecture, même par négation, et donc de la ruine elle-même.»
+    
+8. [Une histoire politique de l'archivage du web](http://bbf.enssib.fr/consulter/bbf-2011-02-0060-012) -- Gildas Illien, BBF, 2011
+    * Inter et trans-nationalité du web
+    * De nombreuses années de travail des pionniers pour convaincre de l'intérêt d'archiver le web comme "mémoire de notre temps"   
