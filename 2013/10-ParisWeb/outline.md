@@ -47,14 +47,15 @@ Paris Web, 11 Octobre 2013
    - Refonte de site web. Tentation de la terre brûlée. Tension entre "c'est vieux et à jeter" et "les visiteurs se plaignent de liens brisés". 
    - Redirections: palliatif / curatif
    - Gestion de l'identification: préventif. Fondation d'un site de 1000 ans.
-* Licence - Sociétale
+* Duplication + Distribution + Appropriation - Sociétale
+   - Licence
    - L'information (et les données numériques) - uniques par leur copie quasi gratuite
    - Gestion du vieillissement différent des artefacts physiques (y compris supports pour numérique)
    - Duplication - un modèle de préservation pour le numérique et l'information
    - Distribution
    - Appropriation
-* Duplication + Distribution + Appropriation = modèle génétique/mémétique de survie
-   - “A panda breeding program” -- https://www.cooperhewitt.org/object-of-the-day/2013/08/26/planetary-collecting-and-preserving-code-living-object 
+   - modèle génétique/mémétique de survie
+     - “A panda breeding program” -- https://www.cooperhewitt.org/object-of-the-day/2013/08/26/planetary-collecting-and-preserving-code-living-object 
 
 ## TBD?
  * La rouille
