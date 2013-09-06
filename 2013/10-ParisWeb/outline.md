@@ -63,12 +63,8 @@ Paris Web, 11 Octobre 2013
    - Concept de rouille [à exprimer, expliquer] adapté à l'information
    - la rouille détruit et protège. Matériau vivant
  * Comprendre son matériau
-
-## Et si la pierre de rosette n'avait pas existé?
-
- * Pas un problème, mais bien dommage.
-   - Donner la possibilité à la culture de se réaliser et de s'écrire.
-   -  Nous ne savons rien du futur. Nous pouvons donner des ancres pour que le futur puisse s'accrocher au passé. Pour aider la construction et la création de nouveaux lieux.
  * Notre profession est basée sur impermanence des supports et des technologies
    - Accepter et apprécier la beauté de l'impermanence
    - Comprendre l'impact du temps et faire évoluer nos techniques vers plus de pérennité 
+   - Donner la possibilité à la culture de se réaliser et de s'écrire.
+   -  Nous ne savons rien du futur. Nous pouvons donner des ancres pour que le futur puisse s'accrocher au passé. Pour aider la construction et la création de nouveaux lieux.
