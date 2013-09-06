@@ -47,7 +47,7 @@ Paris Web, 11 Octobre 2013
    - L'informations après nous
    - Au delà de la durée d'emploi
    - Le contrat avec le lecteur dans le futur
-* License - Sociétale
+* Licence - Sociétale
    - L'information (et les données numériques) - uniques par leur copie quasi gratuite
    - Gestion du vieillissement différent des artefacts physiques (y compris supports pour numérique)
    - Duplication - un modèle de préservation pour le numérique et l'information
