@@ -20,19 +20,15 @@ Paris Web, 11 Octobre 2013
  * Esthétique du ticket de caisse
    - Pour qui, pourquoi, quand
    - Nouvelles, informations transactionnelles
- * Infobésité et Jeter
-   - Qui fait le choix de garder ou supprimer?
-   - Pourquoi supprimer, cacher?
-   - Pourquoi archiver? Pour qui? Pour quand?
  * Valeurs dans le temps 
    - Une courbe quasi-universelle
    - mais des variantes en fonction de personne/rôle 
    - Savons nous tout à propos de cette information là et de son futur?
    - Résistance et fragilité. Comment les matériaux vieillissent. Interaction avec leur environnement.
- * La rouille
-   - Bill Moggridge (ref séquence film: Objectified - 2 minutes) "materiau et objet qui se bonifie avec le temps et l'usage"
-   - Concept de rouille [à exprimer, expliquer] adapté à l'information
-   - la rouille détruit et protège. Matériau vivant
+ * Infobésité et Jeter
+   - Qui fait le choix de garder ou supprimer?
+   - Pourquoi supprimer, cacher?
+   - Pourquoi archiver? Pour qui? Pour quand?
 
 ## Web, une plateforme pour gérer l'information
 
@@ -59,6 +55,13 @@ Paris Web, 11 Octobre 2013
    - Appropriation
  * Duplication + Distribution + Appropriation = modèle génétique/mémétique de survie
    - “A panda breeding program” -- https://www.cooperhewitt.org/object-of-the-day/2013/08/26/planetary-collecting-and-preserving-code-living-object 
+
+## TBD?
+ * La rouille
+   - Bill Moggridge (ref séquence film: Objectified - 2 minutes) "materiau et objet qui se bonifie avec le temps et l'usage"
+   - Concept de rouille [à exprimer, expliquer] adapté à l'information
+   - la rouille détruit et protège. Matériau vivant
+
 
 ## Et si la pierre de rosette n'avait pas existé?
 
