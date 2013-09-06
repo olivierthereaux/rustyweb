@@ -19,8 +19,7 @@ Paris Web, 11 Octobre 2013
 
  * Esthétique du ticket de caisse
    - Pour qui, pourquoi, quand
- * Nouvelles, informations transactionnelles
-   - A développer
+   - Nouvelles, informations transactionnelles
  * Infobésité et Jeter
    - Qui fait le choix de garder ou supprimer?
    - Pourquoi supprimer, cacher?
