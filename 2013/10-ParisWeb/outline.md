@@ -38,15 +38,15 @@ Paris Web, 11 Octobre 2013
    - trop d'inconnues pour choisir en connaissance de cause
    - l'important est de donner et faire comprendre le choix
    - déléguer / distribuer le rôle du curator?
-* Messages (HTTP et conventions) - Technique
-   - Refonte de site web. Tentation de la terre brûlée. Tension entre "c'est vieux et à jeter" et "les visiteurs se plaignent de liens brisés". 
-   - Redirections: palliatif / curatif
-   - Gestion de l'identification: préventif. Fondation d'un site de 1000 ans.
-* Politique (de maintenance, de préservation, de pérennité) - Sociale
+* Choix et Politique (de maintenance, de préservation, de pérennité) - Sociale
    - Conservation de quoi? Contenu? Contenant? Plateforme? Mode d'emploi? 
    - L'informations après nous
    - Au delà de la durée d'emploi
    - Le contrat avec le lecteur dans le futur
+* Messages (HTTP et conventions) - Technique
+   - Refonte de site web. Tentation de la terre brûlée. Tension entre "c'est vieux et à jeter" et "les visiteurs se plaignent de liens brisés". 
+   - Redirections: palliatif / curatif
+   - Gestion de l'identification: préventif. Fondation d'un site de 1000 ans.
 * Licence - Sociétale
    - L'information (et les données numériques) - uniques par leur copie quasi gratuite
    - Gestion du vieillissement différent des artefacts physiques (y compris supports pour numérique)
