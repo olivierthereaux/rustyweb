@@ -5,12 +5,21 @@ License: CC0
 Date: 2013-06-07
 Location: Kita-Kamakura, Japan
 
+(Modification et addition Olivier, London, Japan 2013-09-10)
+
 Utilisé dans un texte:
 
 * Date de lecture: "c'était" / projet fini (was)
 * Date d'écriture: "c'est"   / projet en cours (is)
 
-La grammaire du texte change avec le temps qui passe. Dans ce cas est-il nécessaire d'inscrire la notion du temps dans l'écriture. Un flag par exemple qui permet l'adaptation dynamique du contenu.
+La grammaire du texte change avec le temps qui passe. 
 
-Ou bien donner les éléments nécessaires à la compréhension du contexte temporel (comme sur le papier)
+Dans ce cas est-il nécessaire d'inscrire la notion du temps dans l'écriture:
 
+* Dater les contenus - création, dernière modification d'un contenu. Pas toujours facile à faire en macro pour les contenus dynamiques extraits de plusieurs sources, mais faisable au niveau micro  
+* Un flag par exemple qui permet l'adaptation dynamique du contenu.
+* Ou bien donner les éléments nécessaires à la compréhension du contexte temporel (comme sur le papier)
+
+Ensuite se pose la question de la compréhension de l'évolution de l'information. Un cas d'espèce à la BBC est celui de la couverture des jeux olympiques (ou autre type d'événement récurrents et étendus dans une certain periode de temps). L'équipe en charge de la couverture des JO 2012 ont le système et l'information développpés pour les JO de 2008, mais ils n'en ont que la vue disponible à la fin des JO 2008. Les questions qui se posent: comment a-t-on couvert la période d'anticipation et de préparation à l'événement? L'ouverture? La progression des événements?
+
+Les "informations" (news, en Anglais) sont intrinsèquement liées au temps. Les rédactions choisissent leur propre façon de gérer l'évolution de l'info et de la connaissance de la situation en fonction de leur culture et de leurs outils: une nouvelle info vaut-elle un nouvel article? Ou un ajout à un article existant. Si ajout ou modification de contenu existant, comment le noter? Là encore certaines rédactions jouent la transparence (log de tout changement disponible au public sur la page d'info), d'autres non (donnant parfois lieu à des théories du complot).
