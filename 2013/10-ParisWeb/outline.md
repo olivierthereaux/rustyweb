@@ -29,23 +29,24 @@ Paris Web, 11 Octobre 2013
    - Qui fait le choix de garder ou supprimer?
    - Pourquoi supprimer, cacher?
    - Pourquoi archiver? Pour qui? Pour quand?
-
-## Web, une plateforme pour gérer l'information
-
 * Fragilité par négligence ou Tri par choix
    - Le rôle habituel du “curator” (conservateur / commissaire)
    - conserver ou supprimer n'est pas une question de moralité
    - trop d'inconnues pour choisir en connaissance de cause
    - l'important est de donner et faire comprendre le choix
    - déléguer / distribuer le rôle du curator?
+
+## Web, une plateforme pour gérer l'information
+
 * Choix et Politique (de maintenance, de préservation, de pérennité) - Sociale
    - Conservation de quoi? Contenu? Contenant? Plateforme? Mode d'emploi? 
    - L'informations après nous
    - Au delà de la durée d'emploi
    - Le contrat avec le lecteur dans le futur
-* Messages (HTTP et conventions) - Technique
+* Messages (HTTP, CMS et conventions) - Technique
    - Refonte de site web. Tentation de la terre brûlée. Tension entre "c'est vieux et à jeter" et "les visiteurs se plaignent de liens brisés". 
    - Redirections: palliatif / curatif
+   - Dates et versions (Cf. note "mentir au présent")
    - Gestion de l'identification: préventif. Fondation d'un site de 1000 ans.
 * Duplication + Distribution + Appropriation - Sociétale
    - Licence
