@@ -4,25 +4,28 @@ Paris Web, 11 Octobre 2013
 
 ## Intro (5 min)
 
+Accroche: Lettre du fisc. Intéressant pour l'intéressé? Mais pour le reste du monde?
+
 * Le décret de Memphis (Rosetta Stone / Pierre de Rosette)
-   - Un texte “ennuyeux” 
-   - 2000+ ans après, devenu la clé pour comprendre les caractères hiéroglyphiques.
+   - Un texte “ennuyeux” (exemption d'impôts pour les temples en charge du culte du pharaon)
+   - 2000+ ans après, découvert et devenu la clé pour comprendre les caractères hiéroglyphiques.
    - La propriété de la pierre et son articulation dans la survie pendant 2000ans.
    - Un témoignage de temps (tombe)
 * La première page web
    - Sur le site du CERN
    - Oubliée, supprimée (ringard? Pas utile?)
    - 20 ans après, Retrouvée: une copie, presque par hasard
+   - Document vivant (de 1989 à 1993?) devenu pièce de musée
  
-
 ## L'information et le temps
 
  * Esthétique du ticket de caisse
    - Pour qui, pourquoi, quand
    - Nouvelles, informations transactionnelles
- * Valeurs dans le temps 
-   - Une courbe quasi-universelle
-   - mais des variantes en fonction de personne/rôle 
+ * Valeurs dans le temps
+   - La valeur de l'information n'est pas la même pour tous
+   - L'information est généralement inutile pour la majorité de l'humanité
+   - … Mais une courbe quasi-universelle
    - Savons nous tout à propos de cette information là et de son futur?
    - Résistance et fragilité. Comment les matériaux vieillissent. Interaction avec leur environnement.
  * Infobésité et Jeter
