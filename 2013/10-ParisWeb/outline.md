@@ -32,7 +32,10 @@ Accroche: Lettre du fisc. Intéressant pour l'intéressé? Mais pour le reste du
    - Qui fait le choix de garder ou supprimer?
    - Pourquoi supprimer, cacher?
    - Pourquoi archiver? Pour qui? Pour quand?
+   - Exemple: W3C - tout archiver (mails, meetings) comme mémoire de l'organisation
+   - Exemple: oldtweets - choix d'utilisation comme plateforme d'information temporaire
 * Fragilité par négligence ou Tri par choix
+   - Ce n'est pas juste une question de "tout garder" ou de considerer toute information comme impermanente
    - Le rôle habituel du “curator” (conservateur / commissaire)
    - conserver ou supprimer n'est pas une question de moralité
    - trop d'inconnues pour choisir en connaissance de cause
@@ -67,10 +70,13 @@ Accroche: Lettre du fisc. Intéressant pour l'intéressé? Mais pour le reste du
 ## Le Web et la rouille
  * La rouille
    - Bill Moggridge (ref séquence film: Objectified - 2 minutes) "materiau et objet qui se bonifie avec le temps et l'usage"
-   - Concept de rouille [à exprimer, expliquer] adapté à l'information
-   - la rouille détruit et protège. Matériau vivant
+   - La rouille est un matériau vivant (Cf Ruskin). Symbole d'impermanence
+   - la rouille détruit et protège
  * Comprendre son matériau
+   - C'est la base du métier pour les architectes du bâti
+   - Béton, bois... des qualités différentes et une réaction différente au temps
  * Notre profession est basée sur impermanence des supports et des technologies
+   -  L'information n'échappe pas à l'impermanence.  
    - Accepter et apprécier la beauté de l'impermanence
    - Comprendre l'impact du temps et faire évoluer nos techniques vers plus de pérennité 
    - Donner la possibilité à la culture de se réaliser et de s'écrire.
