@@ -75,6 +75,10 @@ Accroche: Lettre du fisc. Intéressant pour l'intéressé? Mais pour le reste du
  * Comprendre son matériau
    - C'est la base du métier pour les architectes du bâti
    - Béton, bois... des qualités différentes et une réaction différente au temps
+ * La patine et la degradation du web
+   - pas similaire au domaine physique (jaunir, disparation croissante)
+   - Personne ne sait encore ce qu'est la "patine" du web
+   - Mémoire de l'utilisation - couches données et interactions au fil du temps
  * Notre profession est basée sur impermanence des supports et des technologies
    -  L'information n'échappe pas à l'impermanence.  
    - Accepter et apprécier la beauté de l'impermanence
