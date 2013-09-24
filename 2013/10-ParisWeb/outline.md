@@ -29,11 +29,11 @@ Accroche: Lettre du fisc. Intéressant pour l'intéressé? Mais pour le reste du
    - Savons nous tout à propos de cette information là et de son futur?
    - Résistance et fragilité. Comment les matériaux vieillissent. Interaction avec leur environnement.
  * Infobésité et Jeter
-   - Qui fait le choix de garder ou supprimer?
-   - Pourquoi supprimer, cacher?
    - Pourquoi archiver? Pour qui? Pour quand?
    - Exemple: W3C - tout archiver (mails, meetings) comme mémoire de l'organisation
+   - Pourquoi supprimer, cacher?
    - Exemple: oldtweets - choix d'utilisation comme plateforme d'information temporaire
+   - Qui fait le choix de garder ou supprimer?
 * Fragilité par négligence ou Tri par choix
    - Ce n'est pas juste une question de "tout garder" ou de considerer toute information comme impermanente
    - Le rôle habituel du “curator” (conservateur / commissaire)
