@@ -2,86 +2,93 @@
 
 Paris Web, 11 Octobre 2013
 
-## Intro (5 min)
-
-Accroche: Lettre du fisc. Intéressant pour l'intéressé? Mais pour le reste du monde?
-
-* Le décret de Memphis (Rosetta Stone / Pierre de Rosette)
-   - Un texte “ennuyeux” (exemption d'impôts pour les temples en charge du culte du pharaon)
-   - 2000+ ans après, découvert et devenu la clé pour comprendre les caractères hiéroglyphiques.
-   - La propriété de la pierre et son articulation dans la survie pendant 2000ans.
-   - Un témoignage de temps (tombe)
-* La première page web
-   - Sur le site du CERN
-   - Oubliée, supprimée (ringard? Pas utile?)
-   - 20 ans après, Retrouvée: une copie, presque par hasard
-   - Document vivant (de 1989 à 1993?) devenu pièce de musée
- 
 ## L'information et le temps
 
- * Esthétique du ticket de caisse
-   - Pour qui, pourquoi, quand
-   - Nouvelles, informations transactionnelles
- * Valeurs dans le temps
-   - La valeur de l'information n'est pas la même pour tous
-   - L'information est généralement inutile pour la majorité de l'humanité
-   - … Mais une courbe quasi-universelle
-   - Savons nous tout à propos de cette information là et de son futur?
-   - Résistance et fragilité. Comment les matériaux vieillissent. Interaction avec leur environnement.
- * Infobésité et Jeter
-   - Pourquoi archiver? Pour qui? Pour quand?
-   - Exemple: W3C - tout archiver (mails, meetings) comme mémoire de l'organisation
-   - Pourquoi supprimer, cacher?
-   - Exemple: oldtweets - choix d'utilisation comme plateforme d'information temporaire
-   - Qui fait le choix de garder ou supprimer?
-* Fragilité par négligence ou Tri par choix
+* Esthétique du ticket de caisse (K)
+  - Utile pour qui, pourquoi, pour quand?
+  - Contrat, Sociologie, Ethnologie, Archeologie
+  - Codage, matériau, encre. Technologies pérennes ou non. Mentionner décret de Memphis.
+  - Décisions de format, de matériau. Qui décide du design de la perennité? Qui décide de conserver?  
+* Infobésité et Information jetable (O)
+  - Expliquer concepts d'infobésité, information jetable
+    * C'est plus compliqué: capacité à tout enregistrer et conserver
+  - Pourquoi archiver? Pour qui? Pour quand?
+    * Exemple: W3C - tout archiver (mails, meetings) comme mémoire de l'organisation
+  - Pourquoi supprimer, cacher?
+    * Exemple: oldtweets - choix d'utilisation comme plateforme d'information temporaire
+    * Exemple: loi californienne sur le "droit à l'oubli" pour les jeunes adultes
+  - Qui fait le choix de garder ou supprimer?
+    * Exemple: geocities. Premier site web. 
+  - L'importance de (se) responsabiliser sur les choix de gestion de ses données / son info
+* Fragilité par négligence ou Tri par choix (K)
    - Ce n'est pas juste une question de "tout garder" ou de considerer toute information comme impermanente
-   - Le rôle habituel du “curator” (conservateur / commissaire)
    - conserver ou supprimer n'est pas une question de moralité
    - trop d'inconnues pour choisir en connaissance de cause
-   - l'important est de donner et faire comprendre le choix
-   - déléguer / distribuer le rôle du curator?
+   * Exemple: publicité dans un magazine
 
 ## Web, une plateforme pour gérer l'information
 
-* Choix et Politique (de maintenance, de préservation, de pérennité) - Sociale
+* Choix et Politique (de maintenance, de préservation, de pérennité) - Sociale (K)
    - Conservation de quoi? Contenu? Contenant? Plateforme? Mode d'emploi? 
+     * En pratique: politique publique de pérennité
+     * En pratique: espace d'URI daté
    - L'informations après nous
-   - Au delà de la durée d'emploi
+     * En pratique: testament numérique
+     * Penser l'information au delà de la durée d'emploi
    - Le contrat avec le lecteur dans le futur
-* Messages (HTTP, CMS et conventions) - Technique
-   - Refonte de site web. Tentation de la terre brûlée. Tension entre "c'est vieux et à jeter" et "les visiteurs se plaignent de liens brisés". 
-   - Redirections: palliatif / curatif
-   - Dates et versions (Cf. note "mentir au présent")
-   - Gestion de l'identification: préventif. Fondation d'un site de 1000 ans.
-* Duplication + Distribution + Appropriation - Sociétale
-   - Licence
-   - L'information (et les données numériques) - uniques par leur copie quasi gratuite
-   - Gestion du vieillissement différent des artefacts physiques (y compris supports pour numérique)
-   - Duplication - un modèle de préservation pour le numérique et l'information
-   - Distribution
-   - Appropriation
-   - modèle génétique/mémétique de survie
-     - “A panda breeding program” -- https://www.cooperhewitt.org/object-of-the-day/2013/08/26/planetary-collecting-and-preserving-code-living-object 
-* Donner à l'information une chance de vivre et d'évoluer dans le temps
-   - Prendre le temps en considération - réponse à la naïveté du modernisme
-   - Matériau qui change - transition vers concept de rouille. 
+* Gestion du web et des contenus
+   - Refonte de site web. (O)
+     * Peu fréquents - implique changement de technologie 
+     * Impact du changement de technologie
+     * Tentation de la terre brûlée. Tension entre "c'est vieux et à jeter" et "les visiteurs se plaignent de liens brisés". 
+     * Personne clé: SEO - incarne à elle seule toutes ces tensions
+   - Boîte à outils HTTP, URI et au delà (K)
+     * Redirections: palliatif / curatif
+     * URI robustes (extensions etc)
+     * 404 et 410
+     * Les pages d'erreur et de redirection peuvent avoir du contenu explicatif
+     * Robots.txt (Archiver / cacher / détruire)
+   - Dates des contenus et des transactions 
+     * HTTP - fraîcheur des transaction (K)
+     * Contenu qui “ment au présent” (O)
+     * Dater les contenus. Création. Mise à jour. Péremption. 
+     * Montrer les versions et les changements (systèmes de wiki. Changement de politique)
+* Duplication + Distribution + Appropriation 
+   - L'information (et les données numériques) - uniques par leur copie parfaite et à coût marginal (O)
+   - Limite des modèles traditionnels de préservation de l'information numérique (O)
+     * sauver sur DVD?
+     * BBC et archives sur cassettes et têtes de lecture
+   - Duplication - un modèle alternatif de préservation (O)
+     * exemple: œuvre littéraire
+     * modèle particulièrement approprié au numérique
+   - Distribution et Appropriation: laisser vivre les informations (K)
+     * Exemple: usenet (newsgroups)
+     * Exemple: préservation d'œuvre numérique par Cooper-Hewitt - “A panda breeding program” -- https://www.cooperhewitt.org/object-of-the-day/2013/08/26/planetary-collecting-and-preserving-code-living-object 
+     * On peut faire archive soi-même, ou laisser aux autres la possibilité de le faire
+   - Licence - Copyright. Impact des licenses strictes (K)
+     * On ne choisit pas la viralité, mais on peut la rendre possible et limiter la friction
+     * Pratique: choisir des licenses CC (by-nd-nc est une license d'archivage par excellence. by ou 0 une license d'appropriation et d'évolution.)
+     * Pratique: changer les licenses au fil du temps. Pré-empter le "domaine public"
+* Donner à l'information une chance de vivre et d'évoluer dans le temps (K)
+   - l'information se conserve pour de nombreuses raisons, toutes différentes
+   - le web est un medium qui mûrit, les choix restent souvent à faire
+   - Question à se poser: quelle est la capacité (ou le besoin potentiel) d'une page à être archivée
+   - Les outils proposés ne sont pas une liste définitive. Le domaine est encore neuf.
 
 ## Le Web et la rouille
- * La rouille
-   - Bill Moggridge (ref séquence film: Objectified - 2 minutes) "materiau et objet qui se bonifie avec le temps et l'usage"
-   - La rouille est un matériau vivant (Cf Ruskin). Symbole d'impermanence
-   - la rouille détruit et protège
- * Comprendre son matériau
-   - C'est la base du métier pour les architectes du bâti
-   - Béton, bois... des qualités différentes et une réaction différente au temps
- * La patine et la degradation du web
-   - pas similaire au domaine physique (jaunir, disparation croissante)
-   - Personne ne sait encore ce qu'est la "patine" du web
-   - Mémoire de l'utilisation - couches données et interactions au fil du temps
- * Notre profession est basée sur impermanence des supports et des technologies
-   -  L'information n'échappe pas à l'impermanence.  
-   - Accepter et apprécier la beauté de l'impermanence
-   - Comprendre l'impact du temps et faire évoluer nos techniques vers plus de pérennité 
-   - Donner la possibilité à la culture de se réaliser et de s'écrire.
-   -  Nous ne savons rien du futur. Nous pouvons donner des ancres pour que le futur puisse s'accrocher au passé. Pour aider la construction et la création de nouveaux lieux.
+
+* Comprendre son matériau (O)
+  - C'est la base du métier pour les architectes du bâti
+  - Béton, bois... des qualités différentes et une réaction différente au temps
+* La patine et la degradation du web (O)
+  - Le fait que le web est un matériau que le temps affecte est une idée nouvelle
+  - Personne ne sait encore ce qu'est la "patine" du web
+  - pas similaire au domaine physique (jaunir, disparation croissante)
+  - Mémoire de l'utilisation - couches données, liens et interactions au fil du temps
+* Notre profession est basée sur impermanence des supports et des technologies (K)
+  - L'information n'échappe pas à l'impermanence  
+  - Accepter et apprécier la beauté de l'impermanence
+  - Pas de choix parfait ou de recette ultime
+  - Comprendre l'impact du temps et faire évoluer nos techniques vers plus de pérennité 
+  - Donner la possibilité à la culture de se réaliser et de s'écrire.
+  - Nous ne savons rien du futur. Nous pouvons donner des ancres pour que le futur puisse s'accrocher au passé. Pour aider la construction et la création de nouveaux lieux.
