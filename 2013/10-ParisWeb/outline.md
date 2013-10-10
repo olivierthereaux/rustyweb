@@ -19,9 +19,9 @@ Paris Web, 11 Octobre 2013
     * Exemple: loi californienne sur le "droit à l'oubli" pour les jeunes adultes
   - Qui fait le choix de garder ou supprimer?
     * Exemple: geocities. Premier site web. 
-  - L'importance de (se) responsabiliser sur les choix de gestion de ses données / son info
 * Fragilité par négligence ou Tri par choix (K)
    - Ce n'est pas juste une question de "tout garder" ou de considerer toute information comme impermanente
+   - L'importance de (se) responsabiliser sur les choix de gestion de ses données / son info
    - conserver ou supprimer n'est pas une question de moralité
    - trop d'inconnues pour choisir en connaissance de cause
    * Exemple: publicité dans un magazine
@@ -32,7 +32,7 @@ Paris Web, 11 Octobre 2013
    - Conservation de quoi? Contenu? Contenant? Plateforme? Mode d'emploi? 
      * En pratique: politique publique de pérennité
      * En pratique: espace d'URI daté
-   - L'informations après nous
+   - L'information après nous
      * En pratique: testament numérique
      * Penser l'information au delà de la durée d'emploi
    - Le contrat avec le lecteur dans le futur
@@ -65,12 +65,12 @@ Paris Web, 11 Octobre 2013
      * Exemple: usenet (newsgroups)
      * Exemple: préservation d'œuvre numérique par Cooper-Hewitt - “A panda breeding program” -- https://www.cooperhewitt.org/object-of-the-day/2013/08/26/planetary-collecting-and-preserving-code-living-object 
      * On peut faire archive soi-même, ou laisser aux autres la possibilité de le faire
-   - Licence - Copyright. Impact des licenses strictes (K)
+   - Licence - Copyright. Impact des licences strictes (K)
      * On ne choisit pas la viralité, mais on peut la rendre possible et limiter la friction
-     * Pratique: choisir des licenses CC (by-nd-nc est une license d'archivage par excellence. by ou 0 une license d'appropriation et d'évolution.)
-     * Pratique: changer les licenses au fil du temps. Pré-empter le "domaine public"
+     * Pratique: choisir des licences CC (by-nd-nc est une licence d'archivage par excellence. by ou 0 une licence d'appropriation et d'évolution.)
+     * Pratique: changer les licences au fil du temps. Pré-empter le "domaine public"
 * Donner à l'information une chance de vivre et d'évoluer dans le temps (K)
-   - l'information se conserve pour de nombreuses raisons, toutes différentes
+   - nous conservons l'information pour de nombreuses raisons, toutes différentes
    - le web est un medium qui mûrit, les choix restent souvent à faire
    - Question à se poser: quelle est la capacité (ou le besoin potentiel) d'une page à être archivée
    - Les outils proposés ne sont pas une liste définitive. Le domaine est encore neuf.
