@@ -23,7 +23,7 @@ Et si nous extrapolions un peu plus notre échapée, nous pouvons conclure que c
 
 Nous serions bien ambitieux de déterminer la valeur de l'information a priori. Il est fort probable que nous ne sachions pas si cette information sera utile dans 5, 10, 100 ou 2000 ans. Le décret de Memphis (Pierre de Rosette) a certainement eu une utilité immédiate puis a été oubliée pendant quelques siècles avant finalement de devenir la clé de la compréhension d'une langue énigmatique. La valeur de l'information contenue sur cette pierre est redevenue importante pas dans sa valeur première mais bien dans une nouvelle utilité. 
 
-@@insérer la courbe sur l'information@@
+![Graphe valeur de l'information en fonction de la durée](http://www.la-grange.net/2012/10/04/information-valeur)
 
 L'information est pratiquement toujours publiée pour son utilité immédiate. Nous n'écrivons pas les actualités du futur car celui-ci n'existe pas encore. Nous pouvons avoir une certaine conscience du besoin de perennité de celle-ci lorsque nous établissons un contrat, mais il nous est pratiquement impossible de déterminer si celle-ci aura un intérêt quelconque en dehors de la fonction pour laquelle elle a été définie. Cette valeur est attachée à de nombreux paramètres psychologiques, affectifs, contractuels. 
 
@@ -33,66 +33,98 @@ Nous pouvons imaginer qu'il s'agit là de la rareté de l'objet qui s'exprime et
 
 Un autre aspect que nous oublions bien souvent est la capacité de la technologie et du matériel qui supporte cette information à construire sa valeur et sa pérennité. Nous avons déjà vu que bien que le papier du ticket de caisse a de fortes chances de résister quelques centaines d'années dans de bonnes conditions de conservation, l'encre elle-même est sujette à une durée de vie bien plus courte. Nos choix technologiques et leur contexte d'utilisation ont une influence sur la perennité de l'information qu'ils supportent. Nous devons retenir cet élément lors de nos constructions sur le Web.
 
-License et Valeur par abondance. @@photographie de la crise aux USA.@@
+## License et Valeur par abondance
 
-## Conserver ou jeter
+La pérennité d'une information n'est pas seulement le fait d'une bonne identification et d'une bonne conservation. Se reposer sur une matérialisation unique d'une œuvre, d'une expression fragilise la perennité de cette œuvre. Les notions de respect, de rareté peuvent aider la communauté à décider de l'effort à mettre en jeu pour respecter l'œuvre. Mais celle-ci devient alors un objet presque mortifié par son impossible évolution. Devoir garder intact l'œuvre devient un but qui est contradictoire à celle d'une œuvre vivante. L'altération n'a plus de place. Cette œuvre est également tributaire de tous événements catastrophiques suffisamment importants pour qu'elle soit détruite. Les instituts de mémoire ne suffisent pas à la pérennité.
+
+L'abondance peut donc devenir un facteur de pérennité d'une œuvre. La conservation n'est pas tant alors l'effort entrepris pour conserver une pièce unique, mais le fait que l'œuvre survit en permanence sur le substrat culturel de la communauté. Elle est reproduite en grande et distribuée sur un large espace. Un incendie ici, une innondation là-bas, un autodafé, la distribution et la quantité permet la résistance. Elle peut également favoriser sa renommée. Et même si l'œuvre tombait dans l'oubli pendant quelques siècles. Le fait même qu'elle était dupliquée rendent sa résistance aux temps plus grande.
+
+Cette duplication et distribution ne sont pas toujours l'objet d'une décision commerciale ou institutionnelle a priori. La licence attachée à celle-ci peut également être un facteur important. Un exemple assez flagrant de ceci est la photographie de [Florence Owens Thompson](http://fr.wikipedia.org/wiki/Florence_Owens_Thompson) prise par [Dorothea Lange](http://fr.wikipedia.org/wiki/Dorothea_Lange) pendant la crise de 1929. 
+
+![Une femme et ses enfants](http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/461px-Lange-MigrantMother02.jpg)
+
+La « Farm Security Administration » avait commandé un ensemble de photographies à plusieurs photographes. Un travail commandé par et pour l'administration américaine place ce travail dans le domaine publique. Ainsi ces photographies dont il ne faut pas nier la qualité sont en partie devenues iconiques car elles étaient objet librement copiables sans aucune restriction. La combinaison d'une licence libre et de l'abondance de la duplication ont rendu cette photo un symbole qui prendra du temps à disparaître. La collection de la « Farm Security Administration » comprend [environ 170 000 clichés](http://www.loc.gov/pictures/collection/fsac/).
 
 
-	    Infobésité et Jeter
-	        Pourquoi archiver? Pour qui? Pour quand?
-	        Exemple: W3C - tout archiver (mails, meetings) comme mémoire de l'organisation
-	        Pourquoi supprimer, cacher?
-	        Exemple: oldtweets - choix d'utilisation comme plateforme d'information temporaire
-	        Qui fait le choix de garder ou supprimer?
-	        Fragilité par négligence ou Tri par choix
-	        Ce n'est pas juste une question de "tout garder" ou de considerer toute information comme impermanente
-	        Le rôle habituel du “curator” (conservateur / commissaire)
-	        conserver ou supprimer n'est pas une question de moralité
-	        trop d'inconnues pour choisir en connaissance de cause
-	        l'important est de donner et faire comprendre le choix
-	        déléguer / distribuer le rôle du curator?
+## Conserver et jeter
 
-	Web, une plateforme pour gérer l'information
+Toute idée de pérennité d'une information s'accompagne de la question de la quantité du stockage. Cette notion s'établit au moins sur deux axes parallèles. 
 
-	    Choix et Politique (de maintenance, de préservation, de pérennité) - Sociale
-	        Conservation de quoi? Contenu? Contenant? Plateforme? Mode d'emploi?
-	        L'informations après nous
-	        Au delà de la durée d'emploi
-	        Le contrat avec le lecteur dans le futur
-	    Messages (HTTP, CMS et conventions) - Technique
-	        Refonte de site web. Tentation de la terre brûlée. Tension entre "c'est vieux et à jeter" et "les visiteurs se plaignent de liens brisés".
-	        Redirections: palliatif / curatif
-	        Dates et versions (Cf. note "mentir au présent")
-	        Gestion de l'identification: préventif. Fondation d'un site de 1000 ans.
-	    Duplication + Distribution + Appropriation - Sociétale
-	        Licence
-	        L'information (et les données numériques) - uniques par leur copie quasi gratuite
-	        Gestion du vieillissement différent des artefacts physiques (y compris supports pour numérique)
-	        Duplication - un modèle de préservation pour le numérique et l'information
-	        Distribution
-	        Appropriation
-	        modèle génétique/mémétique de survie
-	            “A panda breeding program” -- https://www.cooperhewitt.org/object-of-the-day/2013/08/26/planetary-collecting-and-preserving-code-living-object
-	    Donner à l'information une chance de vivre et d'évoluer dans le temps
-	        Prendre le temps en considération - réponse à la naïveté du modernisme
-	        Matériau qui change - transition vers concept de rouille.
+1. Le **stockage physique** représente la quantité d'information contenue sur un support matériel. Qu'il s'agisse de pierres gravées, de papiers reliés ou d'un disque dur, ces éléments prennent un espace volumétrique réel et apportent chacun à leurs manières leur lot de contraintes de conservation.
+2. Le **stockage cognitif** représente la mémoire à long terme. Bien que celle-ci soit difficile à évaluer.
 
-	Le Web et la rouille
+Dès que nous nous posons la question de conserver, nous devons aussitôt nous poser la question « que jeter ? » Dans le stockage physique des éléments d'informations, il existe une propriété intéressante, une forme d'assymétrie entre le stockage et l'accès à cette information. **Archiver n'est pas se souvenir**. Il est tout à fait possible d'automatiser des processus de collectes, d'enregistrement avec des systèmes d'identifiants uniques sans savoir ce qui a été enregistré et conservé. Ces mêmes systèmes peuvent alors permettre l'accès à une information qui nous était inconnues. Nous pourrions créer une liste de questions à propos d'une information :
 
-	    La rouille
-	        Bill Moggridge (ref séquence film: Objectified - 2 minutes) "materiau et objet qui se bonifie avec le temps et l'usage"
-	        La rouille est un matériau vivant (Cf Ruskin). Symbole d'impermanence
-	        la rouille détruit et protège
-	    Comprendre son matériau
-	        C'est la base du métier pour les architectes du bâti
-	        Béton, bois... des qualités différentes et une réaction différente au temps
-	    La patine et la degradation du web
-	        pas similaire au domaine physique (jaunir, disparation croissante)
-	        Personne ne sait encore ce qu'est la "patine" du web
-	        Mémoire de l'utilisation - couches données et interactions au fil du temps
-	    Notre profession est basée sur impermanence des supports et des technologies
-	        L'information n'échappe pas à l'impermanence.
-	        Accepter et apprécier la beauté de l'impermanence
-	        Comprendre l'impact du temps et faire évoluer nos techniques vers plus de pérennité
-	        Donner la possibilité à la culture de se réaliser et de s'écrire.
-	        Nous ne savons rien du futur. Nous pouvons donner des ancres pour que le futur puisse s'accrocher au passé. Pour aider la construction et la création de nouveaux lieux.
+<table>
+	<caption>Questions face à la gestion de l'information</caption>
+	<thead>
+		<tr>
+			<th>Questions</th><th>Archivage</th><th>Destruction</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr><th>But</th><td colspan="2">Pourquoi ?</td></tr>
+		<tr><th>Personne</th><td  colspan="2">Qui en bénéficie ? À Qui cela manquera ? Qui cela protègera ?</td></tr>
+		<tr><th>Temps</th><td colspan="2">Pendant combien de temps ? À partir de quand ?</td></tr>
+	</tbody>
+</table>
+
+
+<!--
+    Exemple: W3C - tout archiver (mails, meetings) comme mémoire de l'organisation
+    Pourquoi supprimer, cacher?
+    Exemple: oldtweets - choix d'utilisation comme plateforme d'information temporaire
+    Qui fait le choix de garder ou supprimer?
+    Fragilité par négligence ou Tri par choix
+    Ce n'est pas juste une question de "tout garder" ou de considerer toute information comme impermanente
+    Le rôle habituel du “curator” (conservateur / commissaire)
+    conserver ou supprimer n'est pas une question de moralité
+    trop d'inconnues pour choisir en connaissance de cause
+    l'important est de donner et faire comprendre le choix
+    déléguer / distribuer le rôle du curator?
+
+Web, une plateforme pour gérer l'information
+
+    Choix et Politique (de maintenance, de préservation, de pérennité) - Sociale
+        Conservation de quoi? Contenu? Contenant? Plateforme? Mode d'emploi?
+        L'informations après nous
+        Au delà de la durée d'emploi
+        Le contrat avec le lecteur dans le futur
+    Messages (HTTP, CMS et conventions) - Technique
+        Refonte de site web. Tentation de la terre brûlée. Tension entre "c'est vieux et à jeter" et "les visiteurs se plaignent de liens brisés".
+        Redirections: palliatif / curatif
+        Dates et versions (Cf. note "mentir au présent")
+        Gestion de l'identification: préventif. Fondation d'un site de 1000 ans.
+    Duplication + Distribution + Appropriation - Sociétale
+        Licence
+        L'information (et les données numériques) - uniques par leur copie quasi gratuite
+        Gestion du vieillissement différent des artefacts physiques (y compris supports pour numérique)
+        Duplication - un modèle de préservation pour le numérique et l'information
+        Distribution
+        Appropriation
+        modèle génétique/mémétique de survie
+            “A panda breeding program” -- https://www.cooperhewitt.org/object-of-the-day/2013/08/26/planetary-collecting-and-preserving-code-living-object
+    Donner à l'information une chance de vivre et d'évoluer dans le temps
+        Prendre le temps en considération - réponse à la naïveté du modernisme
+        Matériau qui change - transition vers concept de rouille.
+
+Le Web et la rouille
+
+    La rouille
+        Bill Moggridge (ref séquence film: Objectified - 2 minutes) "materiau et objet qui se bonifie avec le temps et l'usage"
+        La rouille est un matériau vivant (Cf Ruskin). Symbole d'impermanence
+        la rouille détruit et protège
+    Comprendre son matériau
+        C'est la base du métier pour les architectes du bâti
+        Béton, bois... des qualités différentes et une réaction différente au temps
+    La patine et la degradation du web
+        pas similaire au domaine physique (jaunir, disparation croissante)
+        Personne ne sait encore ce qu'est la "patine" du web
+        Mémoire de l'utilisation - couches données et interactions au fil du temps
+    Notre profession est basée sur impermanence des supports et des technologies
+        L'information n'échappe pas à l'impermanence.
+        Accepter et apprécier la beauté de l'impermanence
+        Comprendre l'impact du temps et faire évoluer nos techniques vers plus de pérennité
+        Donner la possibilité à la culture de se réaliser et de s'écrire.
+        Nous ne savons rien du futur. Nous pouvons donner des ancres pour que le futur puisse s'accrocher au passé. Pour aider la construction et la création de nouveaux lieux.
+-->
